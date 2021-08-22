@@ -47,14 +47,14 @@ embed = {
       
       ],
       "author": {
-        "name": "sp33k",
-        "url": "https://github.com/Sp33k",
+        "name": "tactic4ll",
+        "url": "https://github.com/tactic4ll",
         "icon_url": "https://zupimages.net/viewer.php?id=21/23/qqh5.gif"
       
       
       },
       "footer": {
-        "text": "IP Grabber Sp33k"
+        "text": "IP Grabber tactic4ll"
       },
       "image": {
           "url" : info[liste[17]]
